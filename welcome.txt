@@ -7,3 +7,4 @@ I finally made it. I finally met my parents after 42 long and cozy weeks.</p>
 <p> We will get to know each other quite soon, but for now, I want to be with my parents and my doggy.</p>
 
 <p>Cheers!</p>
+<img src="logo.png" alt="" />
