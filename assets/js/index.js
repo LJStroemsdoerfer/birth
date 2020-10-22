@@ -96,7 +96,7 @@ var Typer = {
   }
   
   Typer.speed = 1;
-  Typer.file = 'welcome.txt';
+  Typer.file = 'assets/text/welcome.txt';
   Typer.init();
   
   var timer = setInterval('t();', 30);
