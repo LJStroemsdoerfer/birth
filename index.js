@@ -95,7 +95,7 @@ var Typer = {
     }
   }
   
-  Typer.speed = 4;
+  Typer.speed = 1;
   Typer.file = 'welcome.txt';
   Typer.init();
   
