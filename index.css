@@ -1,5 +1,8 @@
 body {
-	background-color: #000
+	background-image: url("pragser-wildsee.jpg");
+	background-color: #000;
+	background-size: cover;
+	background-position: center;
 }
 
 #console {
